@@ -1,4 +1,27 @@
 * {
-    background-color: aqua;
-    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  #container {
+    margin: auto;
+    width: 90%;
+  }
+
+  #menu {
+    background-color: antiquewhite;
+    height: 60px;
+  }
+
+  #menu, #first-menu {
+    display: flex;
+  }
+
+  #menu, #first-menu {
+    display: flex;
+  }
+
+  #menu {
+    justify-content: space-between;
   }
