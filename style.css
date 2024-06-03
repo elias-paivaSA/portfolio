@@ -25,3 +25,23 @@
   #menu {
     justify-content: space-between;
   }
+
+  #menu-list {
+    padding-right: 50px;
+    padding-top: 23px;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  #img-elias {
+    /* padding: 20px 10px 15px 20px; */
+    border-radius: 0px;
+  }
+
+  #menu-name {
+    padding-top: 23px;
+  }
